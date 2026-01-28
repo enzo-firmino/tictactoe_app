@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "appTitle": "Morpion",
+  "gameModeClassic": "Classic",
+  "gameModeUltimate": "Ultimate",
+  "startGame": "Start",
+  "player": "Player",
+  "vs": "VS",
+  "settings": "Settings",
+  "reset": "Reset",
+  "home": "Home",
+  "draw": "It's a draw!",
+  "playerWins": "Player {player} wins!"
+}
